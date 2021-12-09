@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FRCC_CPP_Intro_To_Programming",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Final::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Final-Debug-16760e33a2f902da085e.json",
+					"name" : "Final",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Program10_5.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Program10_5.cpp-Debug-0e1cd629b18be81f0117.json",
+					"name" : "Program10_5.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Program11_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Program11_1-Debug-9e58ea34f58b9e6f28aa.json",
+					"name" : "Program11_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Program11_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Program11_2-Debug-47f483071771113cb3e9.json",
+					"name" : "Program11_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Program11_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Program11_3-Debug-8cb6d3c49f6d633eae52.json",
+					"name" : "Program11_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Program11_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Program11_4-Debug-8ca342a6d78bf250995a.json",
+					"name" : "Program11_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Program12_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Program12_1-Debug-9007174824461ffd84b0.json",
+					"name" : "Program12_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Program12_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Program12_2-Debug-36e4659dd095e8b25211.json",
+					"name" : "Program12_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Template::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Template-Debug-e775c560df3193d0b8a6.json",
+					"name" : "Template",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main.cpp-Debug-3b876d66618cd8bdf9e0.json",
+					"name" : "main.cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/stick/CLionProjects/FRCC_CPP_Intro_To_Programming/cmake-build-debug",
+		"source" : "C:/Users/stick/CLionProjects/FRCC_CPP_Intro_To_Programming"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

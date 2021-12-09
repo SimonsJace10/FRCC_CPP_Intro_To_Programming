@@ -1,0 +1,19 @@
+	JACE'S COFFEE SHOP
+	SALES RECEIPT
+  Owner: Jace Simons
+  123-456-7890
+
+------------------------
+
+2	Pepsi	3.5
+
+------------------------
+
+Subtotal: 	$3.5
+Tax: 		$0.28
+
+------------------------
+
+Total: 	$3.78
+
+THANK YOU!
