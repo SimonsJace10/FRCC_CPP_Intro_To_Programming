@@ -3,3 +3,6 @@ Tea 1.05
 Milk 1.25
 Donut 2.25
 Bagel 2.75
+Pepsi 1.75
+Cookie 0.75
+Brownie 1.00

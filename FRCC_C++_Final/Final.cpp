@@ -216,6 +216,11 @@ void writeToSalesReceipt (ifstream& menuFile, ofstream& receiptFile, string item
 
         cout << "Anything else I can get for you ( y/n )?\n";
         cin >> continueOrdering;
+        while (continueOrdering != 'y' && continueOrdering != 'n') {
+            cout << "Invalid input. Please submit y or n.\n";
+            cin.clear();
+            cin >> continueOrdering;
+        }
         if (tolower(continueOrdering) == 'n') {
             break;
         }
